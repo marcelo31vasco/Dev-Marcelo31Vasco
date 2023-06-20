@@ -1,13 +1,20 @@
-# Dev-Marcelo31Vasco
+# ✠ Dev-Marcelo31Vasco ✠
 
  ### Olá! Eu me chamo Marcelo Júnior🖐️
  ### Este é o meu Perfil Profissional e Acadêmico. 
  
- ### Atualmente estou cursando Bacharelado em Sistemas de Informação (3° Período) na UFERSA - Universidade Federal Rural do Semi-Árido, campus Angicos/RN. 👨‍🎓
+ ### Atualmente estou cursando Bacharelado em Sistemas de Informação (3° Período), na UFERSA - Universidade Federal Rural do Semi-Árido, campus Angicos/RN. 👨‍🎓
+
+## Habilidades Interpessoais
+
+### ● Liderança
+### ● Comunicação
+### ● Trabalho em Equipe
+### ● Flexibilidade
+### ● Alto Controle
 
 
-
-### Minhas redes sociais e maneiras de entrarem em contato comigo são:
+## Minhas Redes Sociais 
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](macelo17@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marcelo.junior.71404/)
@@ -17,15 +24,13 @@
 
  <div>
   <a href="https://github.com/marcelo31vasco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelo31vasco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo31vasco&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelo31vasco&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo31vasco&layout=compact&langs_count=16&theme=onedark"/>
 </div>
 
+### Estou me dedicando a aprofundar meus conhecimentos nas mais diversas linguagens de programação, com ênfase em desenvolver habilidades sólidas em cada uma delas. 
 
-
-### Estou me dedicado a aprofundar meu conhecimento em diversas linguagens de programação, com ênfase em desenvolver habilidades sólidas em cada uma delas. 
-
-## As Tecnologias que uso no meu dia-a-dia e as linguagens de programação que venho estudando nesse momento são:
+## As Tecnologias que venho usando no meu dia-a-dia e as linguagens de programação que venho estudando nesse momento são:
 
 <div style="display: inline_block"><br/>
 
@@ -59,9 +64,17 @@
 
 <img align="center" alt="microsoft office point" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 
+### Venho fazendo cursos e aprimorando minha capacidade nessas linguagens de programação, nas mais diversas plataformas de ensino.
+
+# Cursos e Bootcamps já concluidos
+
+### Formação C/C++ Develope - Carga horária de 42 horas
+https://www.dio.me/certificate/8F997BA8
+
+### Descubra a Nuvem AWS - Nexa Resources - Carga horária 6 horas
+https://www.dio.me/certificate/6897D2E5
 
 
-### Venho fazendo cursos e aprimorando essas liguagens na plataforma de estudo da DIO.me 👨‍💻
 
-### "Só vive o proposito quem suporta o processo"🙏
+# "Só vive o proposito quem suporta o processo"🙏
 
