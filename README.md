@@ -76,5 +76,5 @@ https://www.dio.me/certificate/6897D2E5
 
 
 
-# "Só vive o proposito quem suporta o processo"🙏
+# "Só vive o propósito quem suporta o processo"🙏
 
