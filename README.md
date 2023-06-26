@@ -68,11 +68,20 @@
 
 # Cursos e Bootcamps já concluidos
 
-### Formação C/C++ Develope - Carga horária de 42 horas
+### Formação C/C++ Develope - Carga horária de 42 hora(s).
 https://www.dio.me/certificate/8F997BA8
 
-### Descubra a Nuvem AWS - Nexa Resources - Carga horária 6 horas
+### Descubra a Nuvem AWS - Nexa Resources - Carga horária 6 hora(s).
 https://www.dio.me/certificate/6897D2E5
+
+### Participação no curso autoinstrucional INTRODUÇÃO À CIÊNCIA DE DADOS - FGV Online, Programa de Educação a Distância da Fundação Getulio Vargas - Carga horária 60 hora(s).
+
+### Participação no curso autoinstrucional INTRODUÇÃO AO TEMA LIDERANÇA - FGV Online, Programa de Educação a Distância da Fundação Getulio Vargas - Carga horária 5 hora(s).
+
+### Participação no curso autoinstrucional FUNDAMENTOS DA GESTÃO DE TI - FGV Online, Programa de Educação a Distância da Fundação Getulio Vargas - Carga horária 5 hora(s).
+
+### Participação no curso autoinstrucional ACESSO Á INFORMAÇÃO - FGV Online, Programa de Educação a Distância da Fundação Getulio Vargas - Carga horária 5 hora(s).
+
 
 
 
