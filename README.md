@@ -85,6 +85,9 @@ https://drive.google.com/file/d/1L-xghNr7Ni_df3N9nDeAgPwJS_LhIHBL/view?usp=shari
 
 ### Participação no curso autoinstrucional INTRODUÇÃO AO TEMA LIDERANÇA - FGV Online, Programa de Educação a Distância da Fundação Getulio Vargas - Carga horária 5 hora(s).
 
+### Participação no curso autoinstrucional MARKETING DIGITAL PARA SUA EMPRESA: PRIMEIROS PASSOS - SEBRAE- Carga horária 6 hora(s).
+https://drive.google.com/file/d/1mk9eYhUYCKbZarczWcCV4Udfk61HljHD/view?usp=sharing
+
 
 
 
