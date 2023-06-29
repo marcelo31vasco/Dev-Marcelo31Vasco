@@ -78,15 +78,25 @@ https://www.dio.me/certificate/6897D2E5
 https://drive.google.com/file/d/1L-xghNr7Ni_df3N9nDeAgPwJS_LhIHBL/view?usp=sharing
 
 ### Participação no curso autoinstrucional INTRODUÇÃO À CIÊNCIA DE DADOS - FGV Online, Programa de Educação a Distância da Fundação Getulio Vargas - Carga horária 60 hora(s).
+https://drive.google.com/file/d/1DfXu_uCPCqpz-e8gP7lZFybsWCneX5H5/view?usp=sharing
 
 ### Participação no curso autoinstrucional FUNDAMENTOS DA GESTÃO DE TI - FGV Online, Programa de Educação a Distância da Fundação Getulio Vargas - Carga horária 5 hora(s).
+https://drive.google.com/file/d/1Qzdc3Mc9QI91zb5cwxAm9BTFyjnoUOCr/view?usp=sharing
 
 ### Participação no curso autoinstrucional ACESSO Á INFORMAÇÃO - FGV Online, Programa de Educação a Distância da Fundação Getulio Vargas - Carga horária 5 hora(s).
+https://drive.google.com/file/d/1UZr4KY--6SGdiyUMqQ3Rcuc8ZQxAMh4i/view?usp=sharing
 
 ### Participação no curso autoinstrucional INTRODUÇÃO AO TEMA LIDERANÇA - FGV Online, Programa de Educação a Distância da Fundação Getulio Vargas - Carga horária 5 hora(s).
+https://drive.google.com/file/d/1lS21wu4Ls0f1J6eWPUhFkvBzuKtAGLij/view?usp=sharing
+
+### Participação no curso autoinstrucional A LIDERANÇA NA GESTÃO DE EQUIPES - SEBRAE- Carga horária 3 hora(s).
+https://drive.google.com/file/d/1KXRmJs7AWp-kmCXwInZZjIzN71YBGV9c/view?usp=sharing
 
 ### Participação no curso autoinstrucional MARKETING DIGITAL PARA SUA EMPRESA: PRIMEIROS PASSOS - SEBRAE- Carga horária 6 hora(s).
 https://drive.google.com/file/d/1mk9eYhUYCKbZarczWcCV4Udfk61HljHD/view?usp=sharing
+
+### Participação no curso autoinstrucional PLANEJAMENTO ESTRATÉGICO PARA EMPREENDEDORES- SEBRAE- Carga horária 3 hora(s).
+https://drive.google.com/file/d/1zLfy8AihxzPMtx0DKlk5H8bqbfePwy31/view?usp=sharing
 
 
 
