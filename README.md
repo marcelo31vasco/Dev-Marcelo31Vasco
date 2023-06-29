@@ -75,6 +75,7 @@ https://www.dio.me/certificate/8F997BA8
 https://www.dio.me/certificate/6897D2E5
 
 ### Diretoria Acadêmica do Prospere - itb - Curso de Qualificação Profissional em ALMOXARIFE - CBO 4141-05 / PRONATEC 221008, concluído em 28 de maio de 2019, totalizando a carga horária de 210 horas.
+https://drive.google.com/file/d/1L-xghNr7Ni_df3N9nDeAgPwJS_LhIHBL/view?usp=sharing
 
 ### Participação no curso autoinstrucional INTRODUÇÃO À CIÊNCIA DE DADOS - FGV Online, Programa de Educação a Distância da Fundação Getulio Vargas - Carga horária 60 hora(s).
 
