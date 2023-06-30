@@ -78,6 +78,7 @@ https://www.dio.me/certificate/6897D2E5
 https://drive.google.com/file/d/1L-xghNr7Ni_df3N9nDeAgPwJS_LhIHBL/view?usp=sharing
 
 ### Participação no curso autoinstrucional MICROSOFT WORD 2016 - BÁSICO - Escola Virtual - Fundação Bradesco - Carga horária 9 hora(s).
+https://drive.google.com/file/d/1yasUWq7kBtvtyZs-cG5qxXc3xePc2L4G/view?usp=sharing
 
 ### Participação no curso autoinstrucional INTRODUÇÃO À CIÊNCIA DE DADOS - FGV Online, Programa de Educação a Distância da Fundação Getulio Vargas - Carga horária 60 hora(s).
 https://drive.google.com/file/d/1DfXu_uCPCqpz-e8gP7lZFybsWCneX5H5/view?usp=sharing
