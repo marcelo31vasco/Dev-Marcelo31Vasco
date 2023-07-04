@@ -68,11 +68,13 @@
 
 # Cursos e Bootcamps já concluidos
 
-### Formação C/C++ Develope - Carga horária de 42 hora(s).
+### Formação C/C++ Develope - Plataforma DIO - Carga horária de 42 hora(s).
 https://www.dio.me/certificate/8F997BA8
 
-### Descubra a Nuvem AWS - Nexa Resources - Carga horária 6 hora(s).
+### Descubra a Nuvem AWS - Nexa Resources - Plataforma DIO - Carga horária 6 hora(s).
 https://www.dio.me/certificate/6897D2E5
+
+### Introdução ao GIT e GitHub - Plataforma DIO - Carga horária 3 hora(s).
 
 ### Diretoria Acadêmica do Prospere - itb - Curso de Qualificação Profissional em ALMOXARIFE - CBO 4141-05 / PRONATEC 221008, concluído em 28 de maio de 2019, totalizando a carga horária de 210 horas.
 https://drive.google.com/file/d/1L-xghNr7Ni_df3N9nDeAgPwJS_LhIHBL/view?usp=sharing
