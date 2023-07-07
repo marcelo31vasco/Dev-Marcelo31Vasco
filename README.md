@@ -1,7 +1,7 @@
 # ✠ Dev-Marcelo31Vasco ✠
 
  ### Olá! Eu me chamo Marcelo Júnior🖐️
- ### Este é o meu Perfil Profissional e Acadêmico. 
+
  
  ### Atualmente estou cursando Bacharelado em Sistemas de Informação (3° Período), na UFERSA - Universidade Federal Rural do Semi-Árido, campus Angicos/RN. 👨‍🎓
 
@@ -30,7 +30,7 @@
 
 ### Estou me dedicando a aprofundar meus conhecimentos nas mais diversas linguagens de programação, com ênfase em desenvolver habilidades sólidas em cada uma delas. 
 
-## As Tecnologias que venho usando no meu dia-a-dia e as linguagens de programação que venho estudando nesse momento são:
+## As Tecnologias que venho usando no meu dia-a-dia e as linguagens de programação que venho estudando e que tenho interesse em estudar um dia são essas:
 
 <div style="display: inline_block"><br/>
 
@@ -66,7 +66,7 @@
 
 ### Venho fazendo cursos e aprimorando minha capacidade nessas linguagens de programação, nas mais diversas plataformas de ensino.
 
-# Cursos e Bootcamps já concluidos
+# Cursos e Bootcamps já concluidos são:
 
 ### Formação C/C++ Develope - Plataforma DIO - Carga horária de 42 hora(s).
 https://www.dio.me/certificate/8F997BA8
