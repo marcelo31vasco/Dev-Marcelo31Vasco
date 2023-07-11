@@ -71,6 +71,9 @@
 ### Formação C/C++ Develope - Plataforma DIO - Carga horária de 42 hora(s).
 https://www.dio.me/certificate/8F997BA8
 
+### Fundamentos em Python - Plataforma VOITTO - Carga horária 20 hora(s).
+https://drive.google.com/file/d/18W6BtYwh4Tbui7mjcFUWA3AImqKc4bEd/view?usp=sharing)
+
 ### Descubra a Nuvem AWS - Nexa Resources - Plataforma DIO - Carga horária 6 hora(s).
 https://www.dio.me/certificate/6897D2E5
 
