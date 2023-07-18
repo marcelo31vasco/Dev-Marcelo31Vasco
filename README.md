@@ -30,10 +30,10 @@
 
 ### Estou me dedicando a aprofundar meus conhecimentos nas mais diversas linguagens de programação, com ênfase em desenvolver habilidades sólidas em cada uma delas. 
 
-## As Tecnologias que venho usando no meu dia-a-dia e as linguagens de programação que venho estudando e que tenho interesse em estudar um dia são essas:
+## As Tecnologias que costumo usar no meu dia-a-dia e as linguagens de programação que venho estudando e que tenho interesse em aprender em algum momento são:
 
 <div style="display: inline_block"><br/>
-
+ 
 <img align="center" alt="Linguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
 <img align="center" alt="Linguagem C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
