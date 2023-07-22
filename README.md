@@ -64,7 +64,7 @@
 
 <img align="center" alt="microsoft office point" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 
-### Venho fazendo cursos e aprimorando minha capacidade nessas linguagens de programação citadas acima, frequentando as mais diversas plataformas de ensino.
+### Estou fazendo cursos e aprimorando minha capacidade nessas linguagens de programação citadas acima, frequentando as mais diversas plataformas de ensino.
 
 # Cursos e Bootcamps já concluidos são:
 
