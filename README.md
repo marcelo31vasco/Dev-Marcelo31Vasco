@@ -3,7 +3,8 @@
  ### Olá! Eu me chamo Marcelo Júnior🖐️
 
  
- ### Atualmente estou cursando Bacharelado em Sistemas de Informação (4° Período), na UFERSA - Universidade Federal Rural do Semi-Árido, campus Angicos/RN. 👨‍🎓
+ ### Atualmente estou cursando Bacharelado em Sistemas de Informação (5° Período), na UFERSA - Universidade Federal Rural do Semi-Árido, campus Angicos/RN. 👨‍🎓
+ ### Sou estágiario da TI no Campus Avançado de Lajes/RN
 
 ## Habilidades Interpessoais
 
@@ -12,6 +13,8 @@
 ### ● Trabalho em Equipe
 ### ● Flexibilidade
 ### ● Alto Controle
+### ● Vontade de Aprender
+### ● Proativo
 
 
 ## Minhas Redes Sociais 
