@@ -76,6 +76,9 @@ https://drive.google.com/file/d/14ru4C2X1xGRq-2mKwwyWJGZM104GDhab/view?usp=shari
 ### Descubra a Nuvem AWS - Nexa Resources - Plataforma DIO - Carga horária 6 hora(s).
 https://www.dio.me/certificate/6897D2E5
 
+### Curso básico de Inglês - Alura Línguas - Carga Horária de 10 horas.
+https://drive.google.com/drive/folders/1884MU-6TZJxkz8MewlGFNzhZOqVyp3D3?usp=sharing
+
 ### Introdução ao GIT e GitHub - Plataforma DIO - Carga horária 3 hora(s).
 https://www.dio.me/certificate/23D456EA/share
 
