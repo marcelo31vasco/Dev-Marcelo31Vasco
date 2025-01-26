@@ -4,7 +4,7 @@
 
  
  ### Atualmente estou cursando Bacharelado em Sistemas de Informação (5° Período), na UFERSA - Universidade Federal Rural do Semi-Árido, campus Angicos/RN. 👨‍🎓
- ### Sou estágiario da TI no Campus Avançado de Lajes/RN
+ ### Estous como estágiario da TI no Campus Avançado de Lajes/RN
 
 ## Habilidades Interpessoais
 
@@ -31,10 +31,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo31vasco&layout=compact&langs_count=16&theme=onedark"/>
 </div>
 
-### Estou me dedicando a aprofundar meus conhecimentos nas mais diversas linguagens de programação, com ênfase em desenvolver habilidades sólidas em cada uma delas. 
-
-## As Tecnologias que costumo usar no meu dia-a-dia e as linguagens de programação que venho estudando e que tenho interesse em aprender em algum momento são:
-
+## Atualmente estou estudando:
 <div style="display: inline_block"><br/>
  
 <img align="center" alt="Linguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -43,74 +40,9 @@
 
 <img align="center" alt=" Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img align="center" alt=" Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+## Nos últimos tempos, tenho me dedicado ao estudo de sistemas embarcados e Internet das Coisas (IoT). Participei de um projeto de pesquisa na Ufersa, intitulado Smart Campus, onde pude aprofundar meus conhecimentos e aplicar conceitos teóricos na prática.
 
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+## Atualmente, estou realizando um curso em parceria entre o IFRN e a Embarcatech, focado nesses temas inovadores. Sou um entusiasta em explorar as interseções entre essas áreas e a engenharia de software, especialmente no que diz respeito à levantamento de requisitos. Essa busca constante por conhecimento me motiva a unir tecnologia e inovação para desenvolver soluções eficazes e impactantes.
 
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-
-
-<img align="center" alt="microsoft word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
-
-<img align="center" alt="microsoft excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img align="center" alt="microsoft power point" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
-
-
-### Estou fazendo cursos e aprimorando minha capacidade nessas linguagens de programação citadas acima, frequentando as mais diversas plataformas de ensino.
-
-# Cursos e Bootcamps já concluidos são:
-
-###  Formação Java Web Full-Stack - Treinamentos JDEV On-line - Carga horária de 400 hora(s).
-https://drive.google.com/file/d/12TTpFl0Jq6_Ycu_e2IUzWYRAHkdmebow/view?usp=sharing
-
-### Santander BackEnd JAVA - Plataforma DIO - Carga horária de 88 hora(s).
-https://drive.google.com/file/d/1Ig9xN3Ct0s3rLIg4-g6ydp_M2LI97Bi4/view?usp=drive_link
-
-### Formação C/C++ Develope - Plataforma DIO - Carga horária de 42 hora(s).
-https://www.dio.me/certificate/8F997BA8
-
-### Fundamentos em Python - Plataforma VOITTO - Carga horária 20 hora(s).
-https://drive.google.com/file/d/14ru4C2X1xGRq-2mKwwyWJGZM104GDhab/view?usp=sharing
-
-### Descubra a Nuvem AWS - Nexa Resources - Plataforma DIO - Carga horária 6 hora(s).
-https://www.dio.me/certificate/6897D2E5
-
-### Curso básico de Inglês - Alura Línguas - Carga Horária de 10 horas.
-https://drive.google.com/drive/folders/1884MU-6TZJxkz8MewlGFNzhZOqVyp3D3?usp=sharing
-
-### Introdução ao GIT e GitHub - Plataforma DIO - Carga horária 3 hora(s).
-https://www.dio.me/certificate/23D456EA/share
-
-### Diretoria Acadêmica do Prospere - itb - Curso de Qualificação Profissional em ALMOXARIFE - CBO 4141-05 / PRONATEC 221008, concluído em 28 de maio de 2019, totalizando a carga horária de 210 horas.
-https://drive.google.com/file/d/1L-xghNr7Ni_df3N9nDeAgPwJS_LhIHBL/view?usp=sharing
-
-### Participação no curso autoinstrucional MICROSOFT WORD 2016 - BÁSICO - Escola Virtual - Fundação Bradesco - Carga horária 9 hora(s).
-https://drive.google.com/file/d/1yasUWq7kBtvtyZs-cG5qxXc3xePc2L4G/view?usp=sharing
-
-### Participação no curso autoinstrucional INTRODUÇÃO À CIÊNCIA DE DADOS - FGV Online, Programa de Educação a Distância da Fundação Getulio Vargas - Carga horária 60 hora(s).
-https://drive.google.com/file/d/1DfXu_uCPCqpz-e8gP7lZFybsWCneX5H5/view?usp=sharing
-
-### Participação no curso autoinstrucional FUNDAMENTOS DA GESTÃO DE TI - FGV Online, Programa de Educação a Distância da Fundação Getulio Vargas - Carga horária 5 hora(s).
-https://drive.google.com/file/d/1Qzdc3Mc9QI91zb5cwxAm9BTFyjnoUOCr/view?usp=sharing
-
-### Participação no curso autoinstrucional ACESSO Á INFORMAÇÃO - FGV Online, Programa de Educação a Distância da Fundação Getulio Vargas - Carga horária 5 hora(s).
-https://drive.google.com/file/d/1UZr4KY--6SGdiyUMqQ3Rcuc8ZQxAMh4i/view?usp=sharing
-
-### Participação no curso autoinstrucional INTRODUÇÃO AO TEMA LIDERANÇA - FGV Online, Programa de Educação a Distância da Fundação Getulio Vargas - Carga horária 5 hora(s).
-https://drive.google.com/file/d/1lS21wu4Ls0f1J6eWPUhFkvBzuKtAGLij/view?usp=sharing
-
-### Participação no curso autoinstrucional A LIDERANÇA NA GESTÃO DE EQUIPES - SEBRAE- Carga horária 3 hora(s).
-https://drive.google.com/file/d/1KXRmJs7AWp-kmCXwInZZjIzN71YBGV9c/view?usp=sharing
-
-### Participação no curso autoinstrucional MARKETING DIGITAL PARA SUA EMPRESA: PRIMEIROS PASSOS - SEBRAE- Carga horária 6 hora(s).
-https://drive.google.com/file/d/1mk9eYhUYCKbZarczWcCV4Udfk61HljHD/view?usp=sharing
-
-### Participação no curso autoinstrucional PLANEJAMENTO ESTRATÉGICO PARA EMPREENDEDORES- SEBRAE- Carga horária 3 hora(s).
-https://drive.google.com/file/d/1zLfy8AihxzPMtx0DKlk5H8bqbfePwy31/view?usp=sharing
-
-
-
-
-# "Só vive o propósito quem suporta o processo"🙏
+ # "Só vive o propósito quem suporta o processo"🙏
 
