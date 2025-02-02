@@ -1,21 +1,16 @@
-# ✠ Dev-Marcelo31Vasco ✠
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=😎Olá,+Seja+bem-vindo!;😎Meu+nome+é+Marcelo+Júnior!;🧑‍💻Sou+Fundador+da+Startup+SertãoDevs🚀)](https://git.io/typing-svg)
+<p align="center">
 
- ### Olá! Eu me chamo Marcelo Júnior🖐️
+### 😎 **Sobre mim**  
+Olá, sou o **Marcelo Júnior**, um desenvolvedor apaixonado por tecnologia e inovação. Tenho me dedicado a estudar profundamente **Levantamento de Requisitos de Software** e ao desenvolvimento de **Sistemas Embarcados** e **Internet das Coisas.** Meu objetivo é criar soluções que façam a diferença no cotidiano das pessoas.
 
- 
- ### 👨‍🎓 Atualmente estou cursando Bacharelado em Sistemas de Informação (5° Período), na UFERSA - Universidade Federal Rural do Semi-Árido, campus Angicos/RN. 👨‍🎓
- ### 🧑‍💻Estou como estágiario da TI no Campus Avançado de Lajes/RN
+ ### 👨‍🎓Atualmente, estou cursando o Bacharelado em Sistemas de Informação (5° Período) na UFERSA - Universidade Federal Rural do Semi-Árido, campus Angicos/RN. 👨‍🎓
+ ### 🧑‍💻 Atuo desde Março de 2024 como estagiário na área de TI no Campus do IFRN de Lajes/RN.
 
-## Habilidades Interpessoais:
-
-### ● Liderança
-### ● Comunicação
-### ● Trabalho em Equipe
-### ● Flexibilidade
-### ● Alto Controle
-### ● Vontade de Aprender
-### ● Proativo
-
+<!--🐱CAT-->
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+</p>
 
 ## Minhas Redes Sociais 
 
@@ -31,14 +26,45 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo31vasco&layout=compact&langs_count=16&theme=onedark"/>
 </div>
 
+## Minhas Habilidades Interpessoais e Tecnologias:
+
+### ● Liderança
+### ● Comunicação
+### ● Trabalho em Equipe
+### ● Flexibilidade
+### ● Alto Controle
+### ● Vontade de Aprender
+### ● Proativo
+
 ## Atualmente estou estudando:
-<div style="display: inline_block"><br/>
- 
-<img align="center" alt="Linguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" style="margin: 5px;">
+ <img align="center" alt="Linguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="60" style="margin: 5px;">
+ <img align="center" alt=" Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" style="margin: 5px;">
+</div>
 
-<img align="center" alt="Linguagem C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
-<img align="center" alt=" Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+### 📊 
+<picture style="background-color: transparent; display: flex; justify-content: center;">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg"
+    style="background-color: transparent"
+  />
+</picture>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
 ## Nos últimos meses, tenho me dedicado ao estudo de sistemas embarcados e Internet das Coisas (IoT). Onde, participei de um projeto de pesquisa na Ufersa, intitulado "Smart Campus", que despertou meu interesse pelo tema.
 
