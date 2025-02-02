@@ -2,10 +2,10 @@
 <p align="center">
 
 ### 😎 **Sobre mim**  
-Olá, sou o **Marcelo Júnior**, um desenvolvedor apaixonado por tecnologia e inovação. Tenho me dedicado a estudar profundamente **Levantamento de Requisitos de Software** e ao desenvolvimento de **Sistemas Embarcados** e **Internet das Coisas.** Meu objetivo é criar soluções que façam a diferença no cotidiano das pessoas.
+Olá, sou o **Marcelo Júnior**, um desenvolvedor apaixonado por tecnologia e inovação. Tenho me dedicado a aprofundar mesu conhecimentos em **Levantamento de Requisitos de Software** e ao desenvolvimento de **Sistemas Embarcados** e **Internet das Coisas.** Meu objetivo é criar soluções que façam a diferença no cotidiano das pessoas.
 
- ### 👨‍🎓Atualmente, estou cursando o Bacharelado em Sistemas de Informação (5° Período) na UFERSA - Universidade Federal Rural do Semi-Árido, campus Angicos/RN. 👨‍🎓
- ### 🧑‍💻 Atuo desde Março de 2024 como estagiário na área de TI no Campus do IFRN de Lajes/RN.
+ ### 👨‍🎓Atualmente, estou cursando o Bacharelado em Sistemas de Informação (5° Período) na UFERSA - Universidade Federal Rural do Semi-Árido, campus Angicos/RN. 🎓
+ ### 🧑‍💻 Atuo desde Março de 2024 como estagiário na área de TI no Campus do IFRN de Lajes/RN.⚙️
 
 <!--🐱CAT-->
 <p align="center">
@@ -28,13 +28,13 @@ Olá, sou o **Marcelo Júnior**, um desenvolvedor apaixonado por tecnologia e in
 
 ## Minhas Habilidades Interpessoais e Tecnologias:
 
-### ● Liderança
-### ● Comunicação
-### ● Trabalho em Equipe
-### ● Flexibilidade
-### ● Alto Controle
-### ● Vontade de Aprender
-### ● Proativo
+### ● Liderança 👔
+### ● Comunicação 🗣️
+### ● Trabalho em Equipe 🤝
+### ● Flexibilidade 🤸‍♂️
+### ● Alto Controle 🎯
+### ● Vontade de Aprender 📚
+### ● Proativo 🚀
 
 ## Atualmente estou estudando:
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
@@ -46,29 +46,9 @@ Olá, sou o **Marcelo Júnior**, um desenvolvedor apaixonado por tecnologia e in
 </div>
 
 
-### 📊 
-<picture style="background-color: transparent; display: flex; justify-content: center;">
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg"
-    style="background-color: transparent"
-  />
-</picture>
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+## 🔍 Nos últimos meses, tenho me dedicado ao estudo de Sistemas Embarcados e Internet das Coisas (IoT). Durante esse período, participei de um projeto de pesquisa na Ufersa, intitulado "Smart Campus", que despertou ainda mais meu interesse por essas áreas. 📖
 
-## Nos últimos meses, tenho me dedicado ao estudo de sistemas embarcados e Internet das Coisas (IoT). Onde, participei de um projeto de pesquisa na Ufersa, intitulado "Smart Campus", que despertou meu interesse pelo tema.
-
-## Atualmente, estou participando de um curso em parceria entre o IFRN e a Embarcatech, com foco em temas inovadores relacionados a Sistemas Embarcados e Internet das Coisas (IoT). Sou um entusiasta em investigar as interseções entre essas áreas e a Engenharia de Software, especialmente no que se refere ao Levantamento de Requisitos de Software voltados para Sistemas Embarcados e IoT.
+## 🌐 Atualmente, estou envolvido em um curso em parceria entre o IFRN e a Embarcatech, focado em temas inovadores relacionados a Sistemas Embarcados e Internet das Coisas (IoT). Sou um entusiasta em explorar as interseções entre essas áreas e a Engenharia de Software, especialmente no que diz respeito ao Levantamento de Requisitos de Software voltados para Sistemas Embarcados e IoT. 🖥️
 
  # "Só vive o propósito quem suporta o processo"🙏
 
