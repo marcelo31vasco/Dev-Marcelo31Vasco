@@ -26,7 +26,7 @@ Olá, sou o **Marcelo Júnior**, um desenvolvedor apaixonado por tecnologia e in
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo31vasco&layout=compact&langs_count=16&theme=onedark"/>
 </div>
 
-## Minhas Habilidades Interpessoais e Tecnologias:
+## Minhas Habilidades Interpessoais:
 
 ### ● Liderança 👔
 ### ● Comunicação 🗣️
@@ -39,9 +39,9 @@ Olá, sou o **Marcelo Júnior**, um desenvolvedor apaixonado por tecnologia e in
 ## Atualmente estou estudando:
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" style="margin: 5px;">
- <img align="center" alt="Linguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+ <img align="center" alt="Linguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" whitewidth="60" style="margin: 5px;"/>
 <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="60" style="margin: 5px;">
- <img align="center" alt=" Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+ <img align="center" alt=" Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" whitewidth="60" style="margin: 5px;"/>
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" style="margin: 5px;">
 </div>
 
